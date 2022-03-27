@@ -11,7 +11,6 @@
   inputs.src-ad-0_6_4.ref   = "refs/tags/0.6.4";
   inputs.src-ad-0_6_4.owner = "subsetpark";
   inputs.src-ad-0_6_4.repo  = "ad";
-  inputs.src-ad-0_6_4.dir   = "";
   inputs.src-ad-0_6_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

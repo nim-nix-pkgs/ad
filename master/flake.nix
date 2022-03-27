@@ -11,7 +11,6 @@
   inputs.src-ad-master.ref   = "refs/heads/master";
   inputs.src-ad-master.owner = "subsetpark";
   inputs.src-ad-master.repo  = "ad";
-  inputs.src-ad-master.dir   = "";
   inputs.src-ad-master.type  = "github";
   
   inputs."bignum".owner = "nim-nix-pkgs";
