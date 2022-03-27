@@ -11,6 +11,7 @@
   inputs.src-ad-0_7_4.ref   = "refs/tags/0.7.4";
   inputs.src-ad-0_7_4.owner = "subsetpark";
   inputs.src-ad-0_7_4.repo  = "ad";
+  inputs.src-ad-0_7_4.dir   = "";
   inputs.src-ad-0_7_4.type  = "github";
   
   inputs."bignum".owner = "nim-nix-pkgs";
