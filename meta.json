@@ -7,7 +7,7 @@
   "url": "https://github.com/subsetpark/ad",
   "description": "A simple RPN calculator",
   "refs": [
-    "fatal: unable to access 'https://github.com/subsetpark/ad/': Couldn't connect to server",
+    "fatal: unable to access 'https://github.com/subsetpark/ad/': OpenSSL SSL_read: Network is unreachable, errno 101",
     ""
   ],
   "heads": []
